@@ -1,0 +1,13 @@
+# Gradle specific files
+.gradle/
+build/
+
+# Compiled Kotlin files
+*.class
+
+# Gradle wrapper jar files
+gradle-wrapper.jar
+
+# Ktor generated files
+ktor/
+
