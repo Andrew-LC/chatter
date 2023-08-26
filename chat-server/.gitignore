@@ -4,8 +4,6 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
-.gitignore
-
 ### STS ###
 .apt_generated
 .classpath
